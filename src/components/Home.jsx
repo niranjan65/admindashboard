@@ -81,7 +81,7 @@ const Home = () => {
     if (sortConfig.key === key) {
       return sortConfig.direction === 'ascending' ? <FaSortUp /> : <FaSortDown />;
     }
-    return null;
+    return <FaSortUp/>;
   };
 
   return (
