@@ -1,8 +1,7 @@
 
 
-const BASE_URL = "http://localhost:5000"
-// const BASE_URL = import.meta.env.VITE_BACKEND_URL
-// const BASE_URL = "http://localhost:8000/api/v1"
+const BASE_URL = "https://admindashboard-wq6o.onrender.com"
+
 console.log("Printing base url", BASE_URL )
 
 // AUTH ENDPOINTS
