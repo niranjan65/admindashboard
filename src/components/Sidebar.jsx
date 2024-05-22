@@ -10,7 +10,7 @@ const Sidebar = () => {
         </div>
 
         <ul className='w-full bg-[#e7e5fa] rounded-lg '>
-            <div className='flex items-center justify-center bg-yellow-300 gap-3  p-3 sm:p-2 md:p-3 lg:p-4'>
+            <div className='flex items-center justify-center bg-yellow-300 gap-3  p-3 sm:p-2 md:p-3 rounded-xl'>
               <IoHomeOutline className='text-[#00008B] font-bold text-2xl' />
             <li className='h-10 text-xl text-[#00008B] font-semibold'>Home</li>
             </div>
